@@ -5,4 +5,5 @@ package com.example.jackdong.demo_su_test2.view;
  */
 
 public class LoginActivity {
+    private  String  username;
 }
